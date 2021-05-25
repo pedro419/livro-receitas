@@ -4,5 +4,5 @@
 
 - Força
 - Luta
-- AMEM
+- nao amem 
 - causando problema
